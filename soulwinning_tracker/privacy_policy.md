@@ -12,11 +12,13 @@ We only collect information that is necessary to provide our Service to you.
 
 Photos and Camera Access: In order to use the image selection feature of our app, we will ask for your permission to access your device's photo library and camera. We only access your camera and photo library if you grant us permission to do so. We do not access your photos or camera for any other purpose.
 
+Location Access: In order to use the location feature of our app, we will ask for your permission to access your device's location. We only access your location if you grant us permission to do so. We do not access your location for any other purpose.
+
 ## 2. How We Use Your Information
 
 We use the information we collect for the following purposes:
 
-To Provide and Maintain our Service: The primary use of the images you select is to enable the core features of the app, such as associating an image with a record.
+To Provide and Maintain our Service: The primary use of the images you select is to enable the core features of the app, such as associating an image with a record. The primary use of the location you select is to enable the core features of the app, such as associating a location with a record.
 
 ## 3. Data Sharing and Disclosure
 
